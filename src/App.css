@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body {
+  
+  color:white;
+  font-family:"Cooper Black", sans-serif;
+  background-image: url("./components/background.png");
+  background-size: cover;
+}
